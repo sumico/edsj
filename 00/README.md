@@ -35,6 +35,6 @@ Page 12
 ![image](https://user-images.githubusercontent.com/130117169/232261610-f3199ea8-a0b6-4b53-8c57-ad58460a522b.png)
 ---
 page 13
-![image](https://github.com/su-sumico/edsj/assets/161304268/fbec9c9d-09bd-481d-90e2-ca05c15c5261)
+![image](https://github.com/user-attachments/assets/ec53df06-534a-4ed7-b0f0-b93a4197fa1d)
 ---
 
