@@ -36,7 +36,7 @@ page 12
 ![image](https://user-images.githubusercontent.com/130117169/235330490-51dc7fe9-6ab6-4ed1-8630-eb6e7afcd5b9.png)
 ---
 page 13
-![image](https://github.com/su-sumico/edsj/assets/161304268/1d056ab5-adef-4344-aaf8-f01d4c7d94ae)
+![Uploading image.png…]()
 ---
 page 14
 ![image](https://user-images.githubusercontent.com/130117169/235330509-0c6840d6-472a-4c8f-a8ea-95f1bc05219c.png)
