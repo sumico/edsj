@@ -36,7 +36,7 @@ page 12
 ![image](https://user-images.githubusercontent.com/130117169/235330490-51dc7fe9-6ab6-4ed1-8630-eb6e7afcd5b9.png)
 ---
 page 13
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/c682797c-d841-454b-b302-413480433424)
 ---
 page 14
 ![image](https://user-images.githubusercontent.com/130117169/235330509-0c6840d6-472a-4c8f-a8ea-95f1bc05219c.png)
