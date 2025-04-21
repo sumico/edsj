@@ -7,7 +7,7 @@ page 2
 
 ---
 page 3
-![image](https://github.com/su-sumico/edsj/assets/161304268/d3fcc8f4-3215-4cd2-b89d-4d5658117718)
+![Uploading image.png…]()
 
 ---
 page 4
