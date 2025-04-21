@@ -15,7 +15,7 @@ page 4
 
 ---
 page 5
-![image](https://github.com/su-sumico/edsj/assets/161304268/68524596-cd8b-4ccd-be3e-b244e2818d0b)
+![image](https://github.com/user-attachments/assets/b19777e1-1c9a-4a18-86e1-b831868f5019)
 
 ---
 page 6
