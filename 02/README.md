@@ -12,7 +12,7 @@ page 3
 
 ---
 page 4
-![image](https://github.com/su-sumico/edsj/assets/161304268/99621b51-4896-411a-8a1d-e092f4244f14)
+![image](https://github.com/user-attachments/assets/0c0dbdd2-f615-4a40-bc73-55fb21303590)
 
 ---
 
